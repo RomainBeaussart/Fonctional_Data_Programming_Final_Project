@@ -1,2 +1,2 @@
-[2019-04-13 22:02:58,783] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2019-04-13 22:12:58,779] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-04-13 22:20:46,473] INFO Processed session termination for sessionid: 0x100146da3730000 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2019-04-13 22:20:46,480] INFO Closed socket connection for client /0:0:0:0:0:0:0:1:64004 which had sessionid 0x100146da3730000 (org.apache.zookeeper.server.NIOServerCnxn)
